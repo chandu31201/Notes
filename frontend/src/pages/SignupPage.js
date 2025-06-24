@@ -91,7 +91,7 @@ const SignupPage = () => {
         </button>
       </form>
       <p style={{ marginTop: '1rem', textAlign: 'center' }}>
-        Already have an account? <Link to="/login">Login here</Link>
+        Already have an account? <Link to="/login">Login</Link>
       </p>
     </div>
   );
